@@ -9,7 +9,7 @@
 
    
    # Information
-   Micro Security is a Discord Server Security Bot. It helps with Nukes, Raids, Manages Bans & Mutes and also warns you when certain security checks are needed for you server. It also provides Auto Moderation for people to rarely have time to moderate their servers. All the Auto Moderation Tools are still in BETA. If you need support or want to report a feature feel free to join our Support Server at: https://bit.ly/3TR520H
+   Micro Security is a Discord Server Manager/Utility Bot. It helps with Nukes, Raids, Polls, Suggestions, Tickets, Security & Manages all your server data into a secure database. It also provides Auto Moderation for people to rarely have time to moderate their servers. All the Auto Moderation/Utility Tools are still in BETA.
 
 
                                        
