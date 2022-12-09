@@ -14,7 +14,7 @@
    # Information
    Micro is a Discord Server Manager/Utility Bot. It helps with Nukes, Raids, Polls, Suggestions, Tickets, Security & Manages all your server data into a secure database. It also provides Auto Moderation for people to rarely have time to moderate their servers. All the Auto Moderation/Utility Tools are still in BETA. Command documentation will be provided on a seperate website shortly. 
    
-   - Thanks, Micro Team
+  - Thanks, Micro Team
 
 
                                        
